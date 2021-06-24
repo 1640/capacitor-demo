@@ -1,0 +1,11 @@
+{
+	"appId": "com.bluemesahealth.transform.staging",
+	"appName": "latest-mobile",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
